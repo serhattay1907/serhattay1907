@@ -8,6 +8,7 @@
 - Natural Language Processing
 - Software Engineering
 - System Design
+- Embedded Systems
 
 🚀 Currently improving my skills in:
 - Python
@@ -15,14 +16,19 @@
 - LLMs & AI Applications
 - Backend Development
 - Data Structures & Algorithms
+- Software and Hardwate Integrations in Embedded Systems 
 
 🛠️ Technologies & Tools:
 - Python
 - Java
-- Kotlin
-- C
+- C++
 - SQL
 - Git & GitHub
+- Claude Code
+- Docker
+- Cursor
+- Antigravity
+- Gemma 4
 - TensorFlow / PyTorch
 - Firebase
 
@@ -31,6 +37,7 @@
 - NLP projects
 - Intelligent systems
 - Mobile & web applications
+- Embedded Projects
 
 📈 Always learning and working on new projects.
 
