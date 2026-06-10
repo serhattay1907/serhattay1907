@@ -7,7 +7,6 @@
 - Machine Learning
 - Natural Language Processing
 - Software Engineering
-- System Design
 - Embedded Systems
 
 🚀 Currently improving my skills in:
@@ -31,13 +30,6 @@
 - Gemma 4
 - TensorFlow / PyTorch
 - Firebase
-
-📚 Interested in building:
-- AI-powered applications
-- NLP projects
-- Intelligent systems
-- Mobile & web applications
-- Embedded Projects
 
 📈 Always learning and working on new projects.
 
