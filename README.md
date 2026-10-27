@@ -21,7 +21,6 @@ I build practical systems that solve everyday problems — AI/ML is one of the t
 | [MabrAIn](https://github.com/serhattay1907/MaBrain) | Local-first multi-agent assistant: Claude-based intent router, tool-using agents, path safety, token budget, eval suite | Python · Claude API · tool use · SQLite |
 | [Authorship Attribution](https://github.com/serhattay1907/Author-Detection-in-NLP-) | Identifies 1 of 30 columnists from text — **76.7% accuracy**, macro F1 0.76 | NLTK · scikit-learn · TF-IDF · Transformers |
 | [SEMSY](https://github.com/serhattay1907/SEMSY_Service_Management_System) | Café/restaurant POS–ERP: QR ordering, kitchen & cashier panels, ingredient-level stock (5-person team · architecture & development) | React · TypeScript · Firebase · Tailwind |
-| [Sports Insights](https://github.com/serhattay1907/Sports-Insights-Analysis) | Match commentary → transcript → events & player NER → summary | Whisper · spaCy · BART · yt-dlp |
 | [Smart Path Finder](https://github.com/serhattay1907/Smart_Path_Finder-AI_Project) | Shortest walking routes across Muğla on a real-coordinate graph | Python · Flask · Dijkstra · Leaflet.js |
 | [Connect 4 AI](https://github.com/serhattay1907/Game_Ai_Project) | Game AI with Minimax + Alpha-Beta pruning | Python · Pygame |
 | [Gesture Controller](https://github.com/serhattay1907/Gesture_Controller-Embedded_Systems_Project) | Tilt & shake gestures → real-time game input | C++ · Arduino · MPU6050 · Unity |
