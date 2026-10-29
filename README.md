@@ -10,7 +10,6 @@ I build practical systems that solve everyday problems — AI/ML is one of the t
 
 ### 🔭 Currently
 - 🛩️ Volunteer — Strategy & Project Analysis, **Team Aytunga** (TEKNOFEST 2026 Combat UAV, T3 Foundation)
-- 🧠 Building **[MabrAIn](https://github.com/serhattay1907/MaBrain)** — a local-first multi-agent personal assistant (Claude API · tool use · SQLite)
 - 🎬 Building **[shorts-forge](https://github.com/serhattay1907/shorts-forge)** — local-first multi-agent pipeline that turns news and videos into branded Shorts (LangGraph · Whisper · Remotion)
 - 💸 Designing **Stariance** — an AI-assisted personal finance analysis app (senior design project)
 
